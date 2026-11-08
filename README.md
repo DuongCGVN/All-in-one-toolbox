@@ -65,12 +65,8 @@ Exe sẽ nằm trong `dist\ImageToPDF.exe` (~45 MB)
 ```
 image_to_pdf/
 ├── main.py                 # Main app
-├── license_system.py       # License management
-├── license_keygen.py       # Admin tool (tạo license key)
-├── requirements.txt        # Python dependencies
-├── ImageToPDF.spec         # PyInstaller spec
-└── dist/
-    └── ImageToPDF.exe      # Executable (sau khi build)
+└──requirements.txt        # Python dependencies
+
 ```
 
 ## Dependencies
@@ -89,4 +85,4 @@ Xem đầy đủ trong `requirements.txt`
 
 **Created by Cao Tín Dương**
 
-Development: Cao Tín Dương × Claude Code × ChatGPT
+Development: Cao Tín Dương 
